@@ -1,5 +1,183 @@
-const card = document.querySelector(".card__inner");
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="//fonts.googleapis.com/css?family=Megrim%7CLato" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
 
-card.addEventListener("click", function (e) {
-  card.classList.toggle('is-flipped');
-});
+<title>itinerae : too many boxes</title>
+
+<style>
+* { box-sizing: border-box; }
+
+body {
+  background:#fdfdfd url() fixed;
+  color:#777; font:10px 'lato', calibri, verdana;
+  letter-spacing:1px;
+  margin:0; padding:10px 0 5px 0;
+}
+
+.title {
+  background:transparent;
+  text-transform:uppercase;
+  font:bold 10px monospace, arial;
+  color:#666;
+  line-height:10px;
+  padding:1px 0 1px 0;
+  border-bottom:1px solid #ddd;
+  margin-bottom:4px;
+  letter-spacing:2px;
+}
+
+a { color:#444; text-decoration:none; }
+a:hover { color:#D3B182; text-decoration:none; }
+
+b { color:#FA9696; font-weight:bold; }
+i { color:#D3B182; font-weight:bold; font-style:italic; }
+
+::-webkit-scrollbar-thumb {
+  background-color: #fff;
+  border-radius:0;
+  border:1px solid #ccc;
+  border-right:0;
+}
+::-webkit-scrollbar {
+  width:7px; height:0;
+  background:transparent;
+}
+
+textarea { font:10px calibri; letter-spacing:1px; color:#888; }
+
+/* layout */
+#layout { width:618px; margin:auto; }
+#navigation { float:left; width:430px; padding:4px 2px 4px 4px; }
+#navi { font:bold 10px monospace; background:#fff; color:#777; text-transform:uppercase; letter-spacing:2px; margin:0 0 10px 0; padding:5px 5px 5px 5px; border:1px solid #E7DDBE; text-align:center; }
+#navi a { font-weight:bold; color:#444; text-decoration:none; }
+#navi a:hover { font-weight:bold; color:#D3B182; text-decoration:none; }
+
+#header {
+  height:200px;
+  border:1px solid #E7DDBE;
+  margin:0 0 10px 0;
+  padding:0;
+  background:#fff url() no-repeat;
+}
+
+#content1 {
+  width:100%;
+  background:#fff;
+  border:1px solid #E7DDBE;
+  box-shadow:5px 6px #F5F3E5;
+  padding:5px 8px;
+  margin-bottom:15px;
+}
+
+#box1, #box2 {
+  float:left;
+  width:207px; 
+  background:#fff;
+  padding:5px 8px;
+  border:1px solid #E7DDBE;
+  box-shadow:5px 6px #F5F3E5;
+  overflow:auto;
+  margin-right:10px;
+  margin-bottom:15px;
+  box-sizing: border-box; 
+
+}
+#box2 { margin-right:0; }
+
+#morecontent { clear:both; }
+.contentbox {
+  background:#fff;
+  margin:0 0 15px 0;
+  padding:5px 8px;
+  border:1px solid #E7DDBE;
+  box-shadow:5px 6px #F5F3E5;
+}
+
+#sidebar {
+  width:175px;
+  float:left;
+  padding:4px 4px 4px 2px;
+}
+.sidebox {
+  background:#fff;
+  margin:0 0 15px 5px;
+  padding:5px 8px;
+  border:1px solid #E7DDBE;
+  box-shadow:5px 6px #F5F3E5;
+}
+
+#footer { clear:both; text-align:center; }
+#credits { margin:auto; padding:5px; height:30px; width:600px; }
+</style>
+</head>
+
+<body>
+
+<div id="layout">
+
+  <div id="navigation">
+    <div id="navi"><b>
+      <a href="#">Link</a> / <a href="#">Link</a> / <a href="#">Link</a> / <a href="#">Link</a> / <a href="#">Link</a> / <a href="#">Link</a>
+    </b></div>
+
+    <div id="header">
+      <br><br><br>
+      <center>
+        <img src="https://64.media.tumblr.com/ee842ce2af5eb1a36a115088dbcbc8d3/e4301c2232ba4617-bd/s100x200/0e6bff28608795fe5ff1fba6d410c660e942576f.gifv" alt="x"><br><br>
+        Put your <b>banner img</b> here <br>
+        or to the css. (header-background-section)
+      </center>
+    </div>
+
+    <div id="content1">
+      <div class="title">Content 1</div>
+      <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Fusce pretium quam tortor, vel venenatis tellus varius sed. In auctor ligula eu metus feugiat hendrerit. Quisque id lacinia dui. Quisque enim nunc, iaculis nec tortor a, viverra imperdiet arcu. Morbi quis faucibus justo. Pellentesque posuere, eros et rutrum dapibus, arcu arcu interdum neque, ut volutpat neque orci eget tellus. Nulla vel lectus nec ante suscipit ultricies.
+
+    </div>
+
+    <div id="box1">
+      <div class="title">Box 1</div>
+      <i>Lorem ipsum</i> dolor sit amet, consectetur adipiscing elit. Fusce pretium quam tortor, vel venenatis tellus varius sed. In auctor ligula eu metus feugiat hendrerit. Quisque id lacinia dui. Quisque enim nunc, iaculis nec tortor a, viverra imperdiet arcu. Morbi quis faucibus justo. 
+
+    </div>
+
+    <div id="box2">
+      <div class="title">Box 2</div>
+      <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Fusce pretium quam tortor, vel venenatis tellus varius sed. In auctor ligula eu metus feugiat hendrerit. Quisque id lacinia dui. Quisque enim nunc, iaculis nec tortor a, viverra imperdiet arcu. Morbi quis faucibus justo. 
+    </div>
+
+    <div id="morecontent">
+      <div class="contentbox">
+        <div class="title">Content 2</div>
+        <i>Lorem ipsum</i> dolor sit amet, consectetur adipiscing elit. Fusce pretium quam tortor, vel venenatis tellus varius sed. In auctor ligula eu metus feugiat hendrerit. Quisque id lacinia dui. Quisque enim nunc, iaculis nec tortor a, viverra imperdiet arcu. Morbi quis faucibus justo. Pellentesque posuere, eros et rutrum dapibus, arcu arcu interdum neque, ut volutpat neque orci eget tellus. Nulla vel lectus nec ante suscipit ultricies.
+
+Morbi cursus metus sed nulla vehicula, eget ullamcorper ex fringilla. Mauris eu varius velit. Duis non tortor blandit eros laoreet consequat. Curabitur mollis erat nulla, eget sagittis nibh pellentesque sit amet. Etiam tincidunt, magna id sagittis eleifend, elit metus consequat nulla, nec venenatis metus nulla eu libero. Morbi vel consectetur odio. Maecenas pulvinar lorem et finibus mattis.
+      </div>
+      
+    </div>
+  </div>
+
+  <div id="sidebar">
+    <div class="sidebox"><div class="title">Title</div><i>This is italic text</i> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip</div>
+    <div class="sidebox"><div class="title">Title</div><b>This is bold text.</b> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip</div>
+    <div class="sidebox"><div class="title">Title</div><i>This is italic text</i> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip</div>
+    
+    <div class="sidebox"><div class="title">Title</div><b>This is bold text</b> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostruderci tation ullamcorper suscipit lobortis nisl ut aliquip</div>
+  </div>
+
+</div>
+<!-- PLEASE DO NOT REMOVE THE CREDITS ! -->
+
+<div id="footer">
+  <div id="credits"><b>Layout made by</b> <a href="http://itinerae.neocities.org" target="_blank">Itinerae.</a></div>
+</div>
+
+</body>
+</html>
+          
+          
+      
