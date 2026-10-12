@@ -1,0 +1,711 @@
+<div class="main">
+        <aside class="sidebar">
+            <div class="title">
+                intro
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box"><div class="center">
+                <img src="https://64.media.tumblr.com/bf5c6a115e9c14fce18d2fe01fb77247/tumblr_inline_mu7xdcj6cj1r37k2u.gif" alt="" style="opacity:0.5;margin:4px;filter:grayscale(0%);"> </div>
+              You are now viewing a website called <u>Itinerae</u>.                
+              This site is <b>responsive</b> and best viewed in <b>Chrome</b> with Javascript enabled. 
+                <div class="line"></div>
+
+                <script src="//counter1.fc2.com/views.php?id=39468028&amp;main=1"></script><!-- FC2 --><a href="https://counter.fc2.com/" rel="noopener" target="_blank"><span><nobr><img border="0" src="https://counter1-cdn-ssl.fc2.com/cimg/77/00088177/0.gif" alt="FC2無料カウンター" "="" title="FC2無料カウンター" style="display:inline;margin:0px;padding:0px;border:none;"><img border="0" src="https://counter1-cdn-ssl.fc2.com/cimg/77/00088177/1.gif" alt="FC2無料カウンター" "="" title="FC2無料カウンター" style="display:inline;margin:0px;padding:0px;border:none;"></nobr><span></span></span></a><script src="https://counter1.fc2.com/views_js.php?id=39468028&amp;main=1&amp;lang=0" charset="UTF-8"></script>
+                <noscript>
+                    &lt;img src="//counter1.fc2.com/counter_now.php?id=39468028&amp;main=1" alt="x"&gt;
+                </noscript>
+              online. <i>//</i> 
+                <a href="https://neocities.org/site/itinerae" target="_blank">515 followers ｡⋆｡˚</a>
+            </div>
+
+            <div class="title">
+                Spotlight
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <script>
+                <!--
+                /*
+Random Image Link Script- By JavaScript Kit(http://www.javascriptkit.com) 
+Over 200+ free JavaScripts here!
+Updated: 00/04/25
+*/
+
+                function random_imglink()
+                {
+                    var myimages = new Array()
+                        //specify random images below. You can have as many as you wish
+                    myimages[1] = "https://64.media.tumblr.com/ef3232ac5cd73472399d67e9ed3455d0/7011d51e6ad90d94-79/s1280x1920/55315dec7aa27d7e03d9a6f806a42a227c2243c2.pnj"
+                    myimages[2] = "https://64.media.tumblr.com/0f512dfae49477a7061c9242e4078738/e1c2312987a6974e-cc/s1280x1920/af0b8289757f356bcc91c7b5f50ae530405321a1.pnj"
+                    myimages[3] = "https://64.media.tumblr.com/397affcd05b785e896b6bb6848cbeefc/523f9b495c5d902f-f9/s640x960/b3a70e08158215c54d504797e219d18b64b6e2d0.pnj"
+                    myimages[4] = "https://64.media.tumblr.com/f576bce105ee9eae44f454868fef2fa8/dcf8bc4a1b4ce8b5-eb/s1280x1920/4553762c67621b809df81de93a22a40b4af8b803.pnj"
+                    myimages[5] = "https://64.media.tumblr.com/30f97e88908515cdab2a7f241b2ad4af/97435e96bc9d911e-12/s1280x1920/86cde1292d72ed9f62fd0090d7cae5ecbbc64e40.pnj"
+                    myimages[6] = "https://64.media.tumblr.com/979bb1385b97293b1af183df55ee8e3c/01af0fa0d0269359-85/s1280x1920/9207acfc7420d77534b1cd7516732728c33e7005.pnj"
+                    myimages[7] = "https://64.media.tumblr.com/28408779845c59495e3412f49976601d/98fbf65b11f5ecd7-32/s2048x3072/71d4411337207c77ef2b9c97cbf19407c7049cb0.pnj"
+                    myimages[8] = "https://64.media.tumblr.com/eec7faab3db9a0438a09b25d985f78f7/05a66e72e2d8a778-4d/s2048x3072/6d1711a24821baa88f8a6a3a66b01d3939504b44.pnj"
+                    myimages[9] = "https://64.media.tumblr.com/88d5dca6d82daa4d5f7c0acb20f831e8/fafc24ceed64d3c4-a8/s1280x1920/3a9f35c11e019d9cb80d53537c480c660c00a303.pnj"
+                    myimages[10] = "https://64.media.tumblr.com/17af7dda58cb205a817fd83adeb3234a/8ffc64568e585115-6e/s2048x3072/27439cf36fb1e5d19fc621258c267cadd46e6780.pnj"
+                    myimages[11] = "https://64.media.tumblr.com/13ce6865f2ebb6caca9febf07e6756c8/aea69fa6354cf493-c9/s1280x1920/5bf2081e547589703febcef28d0fa7d0e23b4976.pnj"
+                    myimages[12] = "https://64.media.tumblr.com/29cdaf7cfd1faccf98238eded27e5fb3/cece39c0a4ee372d-cb/s1280x1920/e5dadcf457d8f20240f38930da3d862617fa5bd8.pnj"
+                    myimages[13] = "https://64.media.tumblr.com/3f688cc86d8d0298e8be9c6991adc40f/6aa970ffe2fe67e3-70/s1280x1920/cd2156beac10ef437e83b18286115553c9f238d3.pnj"
+                    myimages[14] = "https://64.media.tumblr.com/88f66af16028804e6b4ed331e5dd6b02/a64ab6fa5654df0a-7f/s2048x3072/e299e8d64c53d6af7be784716db5128bffd26177.pnj"
+                    myimages[15] = "https://64.media.tumblr.com/a60fd7697f34c28ff8c6310b4b07b657/f52a8491e2e2de31-be/s1280x1920/8b0994c276d8e26fad30b744ee07d1b11c6706ed.pnj"
+                    myimages[16] = "https://64.media.tumblr.com/1fbf65c558c6123f9350dd8a62beca30/2b4a33c9ebf0f746-f3/s1280x1920/37c63e38cdfe68c3d9c908d4a2c998019f60b2c9.pnj"
+                    myimages[17] = "https://64.media.tumblr.com/2ab982a021550ca519693687ff2fc97b/1596d4e40b69467f-db/s1280x1920/6e51c7780ec73bc957af68d315cf6a3a54ffd3fe.pnj"
+                    myimages[18] = "https://64.media.tumblr.com/5425b1471f9f4e557392600a827da049/ba007af97b4b1b74-67/s1280x1920/95acebfd9d3aa259193d169a7557637d5253d09a.pnj"
+                    myimages[19] = "https://64.media.tumblr.com/9fa925c456c0d6d3256001f47138d695/c1f2ce4adbdabf5d-a0/s640x960/4f9d1dcf9efb800eb18d8fcd2286f7c88a2e0bd4.pnj"
+                    myimages[20] = "https://64.media.tumblr.com/e6135d3c05c3950c3335b538ad16f1e4/6417df387a040c49-e1/s2048x3072/8f812cce9fe63d239a75b35b5e479e3b8531783d.pnj"
+                    myimages[21] = "https://64.media.tumblr.com/3a44385b136eefd9d71ddfbb4721f574/bd0bf2c5e1da8fc9-7a/s1280x1920/2ab6d9609672224522b8378284e4d6b1685fd153.pnj"
+                    myimages[22] = "https://64.media.tumblr.com/137185917d79596815b97691e9e3217b/25cf10346b2650d8-92/s2048x3072/1b6fd0fa5191c19ac0088c1e3a1be0dd1e2399a8.pnj"
+                    myimages[23] = "https://64.media.tumblr.com/42245d462540eaee162430c2f0a6ed3f/5d01acc103a2c466-65/s1280x1920/2435cb918d475e47ea57cc532ac4a71c7519a357.pnj"
+                    myimages[24] = "https://64.media.tumblr.com/75d70434d1c4d0748f2721eb17d62730/a03ff82ab35ea727-6d/s1280x1920/8f2f424407fa738451cf5c40f2a7b0b19183359a.pnj"
+                    myimages[25] = "https://64.media.tumblr.com/5fa7f9a0257e358aff22a1bf2a367096/a03ff82ab35ea727-08/s1280x1920/fc4cca662bd42d6171a04c368eccaa2c1de7b5d8.pnj"
+                    myimages[26] = "https://64.media.tumblr.com/1acd30c9f4618fe7aeacf4a7cc8751c1/9f1fc3e70d1db2c5-fd/s2048x3072/92c7598210ce50088fd159f591f24449430dfe70.pnj"
+                    myimages[27] = "https://64.media.tumblr.com/42505deae48577f1b88e8c8064729b85/58c568329d37d4bc-dc/s1280x1920/6881eb4921e53211ca4b92dee147fae641946f2b.pnj"
+                    myimages[28] = "https://itinerae.neocities.org/xmas25.png"
+                    myimages[29] = "https://itinerae.neocities.org/premium/10_desktop.gif"
+                    myimages[30] = "https://itinerae.neocities.org/premium/9desktop2.gif"
+                    myimages[31] = "https://itinerae.neocities.org/premium/8desktop.png"
+                    myimages[33] = "https://itinerae.neocities.org/premium/6desktop.gif"
+                    myimages[34] = "https://itinerae.neocities.org/premium/11desktop.gif"
+                     myimages[35] = "https://itinerae.neocities.org/premium/12desktop.gif"
+                   myimages[36] = "https://itinerae.neocities.org/premium/13desktop.png"
+                    myimages[37] = "https://itinerae.neocities.org/premium/14desktop.gif"
+                   myimages[38] = "https://itinerae.neocities.org/premium/15desktop.gif"
+                   myimages[39] = "https://itinerae.neocities.org/premium/16desktop.png"
+                   myimages[40] = "https://itinerae.neocities.org/premium/17desktop.gif"
+                   myimages[41] = "https://itinerae.neocities.org/premium/19desktop.gif"
+                   myimages[42] = "https://itinerae.neocities.org/froglet.png"
+                   myimages[43] = "https://itinerae.neocities.org/premium/20desktop1.png"
+                   myimages[44] = "https://itinerae.shop/premium/22desktop.gif"
+                   myimages[45] = "https://itinerae.shop/premium/23desktop.png"
+                   myimages[46] = "https://itinerae.shop/premium/24desktop.gif"
+
+
+
+
+
+
+
+                    //specify corresponding links below
+                    var imagelinks = new Array()
+                    imagelinks[1] = "https://itinerae.neocities.org/boxes"
+                    imagelinks[2] = "https://itinerae.neocities.org/vaporeon"
+                    imagelinks[3] = "https://itinerae.neocities.org/coma"
+                    imagelinks[4] = "https://itinerae.neocities.org/bloodyhell"
+                    imagelinks[5] = "https://itinerae.neocities.org/oldtimes"
+                    imagelinks[6] = "https://itinerae.neocities.org/spacebunny"
+                    imagelinks[7] = "https://itinerae.neocities.org/lilac"
+                    imagelinks[8] = "https://itinerae.neocities.org/meleys"
+                    imagelinks[9] = "https://itinerae.neocities.org/window"
+                    imagelinks[10] = "https://itinerae.neocities.org/pink"
+                    imagelinks[11] = "https://itinerae.neocities.org/1947"
+                    imagelinks[12] = "https://itinerae.neocities.org/spookyseason"
+                    imagelinks[13] = "https://itinerae.neocities.org/white"
+                    imagelinks[14] = "https://itinerae.neocities.org/flowers"
+                    imagelinks[15] = "https://itinerae.neocities.org/xmas"
+                    imagelinks[16] = "https://itinerae.neocities.org/orange"
+                    imagelinks[17] = "https://itinerae.neocities.org/shrooms"
+                    imagelinks[18] = "https://itinerae.neocities.org/inutero"
+                    imagelinks[19] = "https://itinerae.neocities.org/screentime"
+                    imagelinks[20] = "https://itinerae.neocities.org/darkmatter"
+                    imagelinks[21] = "https://itinerae.neocities.org/greyscale"
+                    imagelinks[22] = "https://itinerae.neocities.org/spring"
+                    imagelinks[23] = "https://itinerae.neocities.org/radioactive"
+                    imagelinks[24] = "https://itinerae.neocities.org/flutterpony"
+                    imagelinks[25] = "https://itinerae.neocities.org/vintage"
+                    imagelinks[26] = "https://itinerae.neocities.org/pixel_bakery"
+                    imagelinks[27] = "https://itinerae.neocities.org/bugfriendly"
+                    imagelinks[28] = "https://itinerae.neocities.org/xmas2025"
+                    imagelinks[29] = "https://ko-fi.com/s/4b25f8ffa7"
+                    imagelinks[30] = "https://ko-fi.com/s/f569583c0d"
+                    imagelinks[31] = "https://ko-fi.com/s/8cd8f55793"
+                    imagelinks[33] = "https://ko-fi.com/s/fa0d5f4019"
+                    imagelinks[34] = "https://ko-fi.com/s/bfb3d5c233"
+                    imagelinks[35] = "https://ko-fi.com/s/98fb7d54b5"
+                   imagelinks[36] = "https://ko-fi.com/s/5293f1bf45"
+                     imagelinks[37] = "https://ko-fi.com/s/e93e0bf2bb"
+                   imagelinks[38] = "https://ko-fi.com/s/71a650929f"
+                   imagelinks[39] = "https://ko-fi.com/s/4d88741d1e"
+                   imagelinks[40] = "https://ko-fi.com/s/753b5c7101"
+                     imagelinks[41] = "https://ko-fi.com/s/0610d86579"
+                  imagelinks[42] = "https://itinerae.neocities.org/froglet"
+                     imagelinks[43] = "https://ko-fi.com/s/42ef5eb371"
+                  imagelinks[44] = "https://ko-fi.com/s/4cb019eea3"
+                  imagelinks[45] = "https://ko-fi.com/s/45ab84435d"
+                  imagelinks[46] = "https://ko-fi.com/s/af27a4562a"
+
+
+
+
+
+
+
+                    var ry = Math.floor(Math.random() * myimages.length)
+                    if (ry == 0)
+                        ry = 1
+                    document.write('<a href=' + '"' + imagelinks[ry] + '"' + '><img class="spotlight" src="' + myimages[ry] + '" border=0 width=100%></a>')
+                }
+                random_imglink()
+                    //
+                    -->
+                </script><a href="https://ko-fi.com/s/f569583c0d"><img class="spotlight" src="https://itinerae.neocities.org/premium/9desktop2.gif" border="0" width="100%"></a>
+            </div>
+
+            <div class="title">
+                human error
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                              <img src="https://itinerae.shop/pixels/fairy.webp" alt="x" style="opacity:0.6;float:left;margin:4px;filter:grayscale(0%);"> 
+
+               <b>Shye.</b> <i>She / her.</i> Europe.
+                Blue eyes. Black + pink hair. Clumsy girl. Poor concentration and mental health. Prefers to <i>listen</i> rather than talk. Nature and sky observer loaded with <u>adventure</u> spirit. 100% crazy cat lady.
+                <div class="line"></div>
+                <img class="c" src="https://64.media.tumblr.com/0e7c01b351e6b327addc2a9c83cbfe5f/27062768058b892f-d5/s75x75_c1/30af335725a8bf606d702edf9d3a28bcbe4036f0.gifv" alt="x">
+                <a href="http://last.fm/user/itinerae" target="_blank" class="navi">last.fm</a> &nbsp;
+                <img class="c" src="https://64.media.tumblr.com/0e7c01b351e6b327addc2a9c83cbfe5f/27062768058b892f-d5/s75x75_c1/30af335725a8bf606d702edf9d3a28bcbe4036f0.gifv" alt="x">
+                <a href="http://pixels-and-layouts.tumblr.com" target="_blank">tumblr</a> &nbsp;
+                <img class="c" src="https://64.media.tumblr.com/0e7c01b351e6b327addc2a9c83cbfe5f/27062768058b892f-d5/s75x75_c1/30af335725a8bf606d702edf9d3a28bcbe4036f0.gifv" alt="x">
+                <a href="http://ko-fi.com/itinerae" target="_blank">ko-fi</a>
+                <br>
+                <div class="line"></div>
+                <i>
+              <img src="https://64.media.tumblr.com/c5caf5a79509810cec1b08155b5a01ab/b2dee8f17f3df1a3-da/s75x75_c1/63318c13bc19cfd859f43e3137d3a16fabd7e66f.gifv" alt="x">
+              <span id="song">I Feel You - Depeche Mode</span>
+            </i>
+
+                <script>
+                let user = "itinerae";
+                let url =
+                    "https://lastfm-last-played.biancarosa.com.br/" +
+                    user +
+                    "/latest-song";
+                let song = document.querySelector("#song");
+                fetch(url)
+                    .then(function(response)
+                    {
+                        return response.json();
+                    })
+                    .then(function(json)
+                    {
+                        song.innerHTML =
+                            json["track"]["name"] +
+                            " - " +
+                            json["track"]["artist"]["#text"];
+                    });
+                </script>
+            </div>
+
+            <div class="title">
+                currently
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <img class="c" src="https://64.media.tumblr.com/5748ab6d10c7bf48012a7802da6a9737/a7f72053e253a63e-0a/s75x75_c1/b1e9319ecff74192a6796a49421fb1ae2b36ca3e.gifv" alt="x">
+                <b>Date</b> 11.10.2026
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/ff654a0bc9960b4c620d6e44d474b141/8a6a930d5c4796da-55/s75x75_c1/7755c500edd327a23fae28db8a6c0135c873b219.gifv" alt="x">
+                <b>Weather</b> cloudy, +8°C
+                <br>
+                <img src="https://64.media.tumblr.com/85069984799191ef52f2c49d53843b87/3551a213d01ada8a-17/s75x75_c1/2298b03fcf75aac8aef53409b0f042f387c6dae4.pnj" alt="x">
+                <b>Browsing</b> neocities
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/19c5bd8e344a9503b66f0b85bd2db0ff/8a6a930d5c4796da-6b/s75x75_c1/499aad6f6cb2bd879564f4d9b56c30ab9cd79ca6.gifv" alt="x" height="9">
+                <b>Listening</b> bird tv
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/2299f89657bae4d6493d89bfd664ebe5/817561ba9773c40d-50/s75x75_c1/848dfb77e6b0d0edde0c619f530c6552c541672d.pnj" alt="x" height="9">
+                <b>Coding</b> something
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/45daadf76d6df04270a3f147994bce5c/8a6a930d5c4796da-03/s75x75_c1/fb3c344f81c7875f6a2c387448fb538c07bb336a.gifv" alt="x">
+                <b>Eating</b>  a wok + rice
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/8ab37edd1ad4268d43f4734941a4dc74/8a6a930d5c4796da-6f/s75x75_c1/c93ad795e24c1783311b2cf6be17a01bcfe19f9f.gifv" alt="x">
+                <b>Drinking</b> water, tea
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/27a1bed1b6d7bd94b07a2fd00ea454e7/1a5fa5080373adb0-46/s75x75_c1/1a769397a7efd63bf38ed4cb25b7ebcce1b3a902.gifv" alt="x">
+                <b>Loving</b>  soft pillows
+                <br>
+                <img class="c" src="https://64.media.tumblr.com/e88ccd570e8626d384041ee371a407bb/1a5fa5080373adb0-a1/s75x75_c1/81dc5ccb8afc6d7b32ddb04045880bbbd461e27b.gifv" alt="x">
+                <b>Hating</b>  my idiotism
+            </div>
+
+            <div class="title">
+                adopted
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <div class="center">
+                    <a href="https://strawberry-bunny.neocities.org/" target="_blank" title="art by strawberry bunny">
+                        <img src="https://itinerae.neocities.org/adopted/flicker.gif" alt="x" style="height:43px;opacity:0.7;">
+                    </a>
+
+                    <a href="https://strawberry-bunny.neocities.org/" target="_blank" title="art by strawberry bunny">
+                        <img src="https://itinerae.neocities.org/adopted/pyrstis3.gif" alt="x" style="height:40px;opacity:0.7;">
+                    </a>
+
+                    <a href="https://dollarchive.neocities.org/" target="_blank" title="art by dollarchive">
+                        <img src="https://itinerae.neocities.org/adopted/inconclusa_sm.png" alt="x">
+                    </a>
+                    <br>
+
+                    <a href="https://dollarchive.neocities.org/" target="_blank" title="art by dollarchive">
+                        <img src="https://itinerae.neocities.org/adopted/oleander.png" width="50" alt="x" style="opacity:0.7;">
+                    </a>
+                  <a href="https://web.archive.org/web/20160713151448/http://milky.geocities.jp/nyarose00/" target="_blank" title="art by nyarose">
+                        <img src="https://itinerae.neocities.org/img/nyarose00.gif" alt="x" style="opacity:0.7;margin-left:7px;">
+                    </a>
+                  
+                  <a href="https://velvetmoth.neocities.org/" target="_blank" title="art by velvet moth">
+                        <img src="https://itinerae.neocities.org/adopted/wall_moth1_adoptable.gif" alt="x" style="opacity:0.7;margin-left:7px;">
+                    </a>
+                  
+                  <a href="https://lataccola.neocities.org/collections/" target="_blank" title="">
+                        <img src="https://itinerae.shop/adopted/mouse.gif" alt="x" style="opacity:0.7;margin-top:5px;">
+                    </a>
+                  
+                   <a href="https://velvetmoth.neocities.org/" target="_blank" title="art by velvet moth">
+                        <img src="https://itinerae.neocities.org/adopted/spider_adoptable.gif" alt="x" style="opacity:0.7;margin-top:5px;">
+                    </a>
+                  
+                        <img src="https://itinerae.neocities.org/img/bird34.gif" alt="x" style="opacity:0.5;margin-top:5px;">
+                    
+                  <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/hpgpixer.jp.gif" alt="x" style="opacity:0.5;margin-top:5px;">
+                    </a>
+                  
+                  <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/sea_otter_rakko_2.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                  
+                   <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/dinosaur_pteranodon.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                  
+                   <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/tonbo.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                   <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/fugu_an.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                  
+                  
+                   <a href="https://hpgpixer.jp/" target="_blank" title="art by hpgpixer">
+                        <img src="https://itinerae.neocities.org/pixels/new/capybara.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                  
+                  <a href="https://artwork.neocities.org/toybox" target="_blank" title="">
+                        <img src="https://itinerae.shop/adopted/rock.gif" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a>
+                  
+                  <a href="https://joro.nu/adoptables" target="_blank" title="art by joro">
+                        <img src="https://itinerae.shop/adopted/bat.png" alt="x" style="opacity:0.65;margin-top:5px;">
+                    </a> 
+                  
+
+                  
+                  
+                  
+                </div>
+            </div>
+
+            <div class="title">
+                Read me
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <img src="https://64.media.tumblr.com/d3131c672427a7a002ec74861fb4e8b6/cd8bca7c1254fca0-28/s75x75_c1/87c01e3c3be0f38faa012a4348d462dfced5c8f4.webp" alt="x" style="float:left;margin:5px;"> All content found on itinerae.org was made by <u>Shye</u> unless
+                <i>otherwise</i> stated or credited. 
+                              <div class="line"></div>
+
+              You can follow me on <a href="https://neocities.org/site/itinerae" target="_blank">neocities</a>, <a href="https://instagram.com/itinerae_org" target="_blank">instagram</a> or <a href="https://facebook.com/itinerae" target="_blank">facebook</a> to get the latest updates.
+                <div class="line"></div>
+                The site is hosted by
+                <a href="https://www.blogger.com/blog/posts/7624851969897850515" target="_blank">Blogger</a> and
+                <a href="https://neocities.org/" target="_blank">Neocities.</a> Read the full credit list and frequently asked questions
+                <a href="https://itinerae.org/2024/01/faq-credits.html">here.</a>
+
+            </div>
+          
+          
+          <div class="title">
+                Moon phase
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+         
+          <!-- © wdisseny --><div id="contain_moon" style="text-align:center;padding-bottom:5px;"><div style="font-weight:bold"></div><div style="margin-bottom: -15px; padding-top: 30px; filter: drop-shadow(rgb(255, 203, 158) 0px 0px 24px); height: 150px;"><svg width="70" height="70" viewBox="0 0 100 100"><g><circle cx="50" cy="50" r="49" stroke="none" fill="rgb(173,173,173)"></circle><path d="M 50 1 A 49,49 0 0,1 49,99 A 48.02,49 0 1,0 50,1" stroke-width="0" stroke="none" fill="rgb(255,253,245)"></path><a xlink:href="https://www.icalendar37.net/lunar/app/" rel="noopener noreferrer" target="_blank"><circle cx="50" cy="50" r="49" style="pointer-events:all;cursor:pointer" stroke-width="0" fill="transparent"></circle></a></g></svg></div><div>Waxing (1%)</div><div style="font-size:small"></div></div><script>(function(){var d=new Date().getDate();var m=document.querySelectorAll("#contain_moon div");var a=new XMLHttpRequest();var url="https://www.icalendar37.net/lunar/api/?lang=en&month="+(new Date().getMonth()+1)+"&year="+(new Date().getFullYear())+"&size=70&lightColor=rgb(255,253,245)&shadeColor=rgb(173,173,173)&LDZ="+new Date(new Date().getFullYear(),new Date().getMonth(),1)/1000+"";m[1].style.height="150px";a.onreadystatechange=function(){if(a.readyState==4&&a.status==200){var b=JSON.parse(a.responseText);m[1].innerHTML=b.phase[d].svg;if(typeof moon_widget_loaded=="function")moon_widget_loaded(b);m[2].innerHTML=b.phase[d].npWidget}};a.open("GET",url,true);a.send()})()</script>
+
+               
+
+            </div>
+          
+          
+          
+            <div class="title">
+                Webrings
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+      
+
+               <div class="center">
+                        <span>This site is part of the</span>
+                        <a target="_blank" href="https://petrapixel.neocities.org/webring">
+                            <i>Code Collective</i>
+                        </a>
+                        ,
+                        <span>a webring for coding resources !</span>
+                        <br>
+                        <a target="_blank" href="https://petrapixel.neocities.org/webring?action=previous" style="text-decoration:none">&lt;prev&gt;</a>
+                        <a target="_blank" href="https://petrapixel.neocities.org/webring?action=random" style="text-decoration:none">&lt;random&gt;</a>
+                        <a target="_blank" href="https://petrapixel.neocities.org/webring?action=next" style="text-decoration:none">&lt;next&gt;</a>
+                    </div>
+
+            </div>
+          
+          
+          
+
+            <div class="center">
+                
+              
+                <a href="https://angel.valentinely.cc/" target="_blank">
+                    <img src="https://files.catbox.moe/6sbnuk.png" alt="angelnumber">
+                </a>
+                <a href="https://web.archive.org/web/20120720072006/http://www.kintanti.com/downloads/cliques/cliques.php" target="_blank">
+                    <img src="https://files.catbox.moe/gkzm88.gif" alt="earth">
+                </a>
+                <br>
+                <br>
+                <a href="https://grrrl.valentinely.cc/" target="_blank">
+                    <img src="https://files.catbox.moe/m0v3rl.png" alt="grl"> 
+                </a> 
+                <br>
+                <br>
+            </div>
+        </aside>
+
+       <div class="rightside">
+
+<div style="clear:both;"></div> <div class="title">
+                welcome message
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <blockquote>
+                    <div class="intro-calendar">
+                        <img class="calendar-tape" src="https://64.media.tumblr.com/6ea56e55053c3bd747a4b21e8954d4d3/4148d28eb2bedb19-f7/s75x75_c1/27340d55e55fa40f0db2b2d52365dafd59108559.gifv" alt="butterfly tape">
+                        <div class="mini-calendar">
+                            <div class="cal-header" id="cal-month">OCT 2026</div>
+                            <table id="cal-body"><tbody><tr><td>S</td><td>M</td><td>T</td><td>W</td><td>T</td><td>F</td><td>S</td></tr></tbody><tbody><tr><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>3</td></tr></tbody><tbody><tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr></tbody><tbody><tr><td class="today">11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr></tbody><tbody><tr><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td></tr></tbody><tbody><tr><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td></tr></tbody></table>
+                        </div>
+                    </div><br>
+                   <b>Welcome to itinerae.org </b>      <br><br>
+               This is a personal website created by Shye. I am a curious soul with a love for nature, based in Northern Europe.<br><br>
+
+                  I like to collect different <a href="https://www.itinerae.org/2024/01/graphics.html">graphics</a> and create <a href="https://www.itinerae.org/2024/01/foryou.html">website layouts</a>, which are free to use and fully customizable, as long as you remember to credit me. 
+<br><br>
+ I'm also currently making a paid and responsive premium layouts, you can buy them from my <a href="https://ko-fi.com/itinerae/shop" target="_blank">Ko-fi shop</a> and support me and my cats. /ᐠ. ᴗ.ᐟ\ <br><br>
+
+                 
+                  
+                  
+
+                  <i>Enjoy your stay, happy coding ! </i> <img src="https://itinerae.neocities.org/img/smiley.png" style="opacity:0.7;margin-left:5px;" alt="x"><br>
+                  
+                  
+                  
+                </blockquote>
+
+                <br> &nbsp; &nbsp; &nbsp; &nbsp;
+                <span style="font:18px 'spirit';"><img src="https://itinerae.shop/pixels/niche/pen20.gif" alt=""> shye  &nbsp;<a href="mailto:shye@itinerae.org"><img src="https://64.media.tumblr.com/350ab8b8cf6f7b5f313cd0376590a5dc/701e317ec6822ade-6d/s75x75_c1/fcac6cefa85bf69f1c12e0963935cc1794348d77.gifv" height="15" alt="x" style="opacity:0.7;"></a></span>
+            </div>
+
+            <div class="title">
+                status.cafe
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+                <div class="status-wrapper">
+                    <img src="https://itinerae.shop/img/autumn/sticker1%20(1).webp" class="status-avatar" alt="x">
+                    <div class="speech-bubble">
+                        <div id="statuscafe">
+                            <div id="statuscafe-username"><a href="https://status.cafe/users/itinerae" target="_blank">itinerae</a> 🐱 13 hours ago</div>
+                            <div id="statuscafe-content">Okay, maybe this hand isn't in as bad shape as I thought, the most important thing is being able to pet the cat :3</div>
+                        </div>
+                    </div>
+                </div>
+                <script src="https://status.cafe/current-status.js?name=itinerae" defer=""></script>
+              
+                             <div class="line"></div>
+  <a href="https://www.itinerae.org/2024/01/status-archive.html"> Status.cafe archive  <img src="https://64.media.tumblr.com/e3c4ddde9216e74a020ef8f23e6aebab/4492f458cc948953-9a/s75x75_c1/1c71f0ba2eed30dcf7ee17e5ed4f6c16df069a13.gifv" alt="x"></a>
+              
+            </div>
+
+          
+
+            <div class="title">
+                recent blog posts
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+              
+               <img src="https://itinerae.neocities.org/journal/pixels/2011-12-23_1-208.gif" style="filter:grayscale(30%);float:left;opacity:0.4;margin-right:8px;" alt="x">
+
+              
+               <u>08/10/2026</u>  
+              I booked flight tickets to Italy. Still, I’m not 100% convinced I’ll actually make it there . . .  
+
+              <a href="https://www.itinerae.org/2024/01/blog.html">Continue reading <img src="https://64.media.tumblr.com/e3c4ddde9216e74a020ef8f23e6aebab/4492f458cc948953-9a/s75x75_c1/1c71f0ba2eed30dcf7ee17e5ed4f6c16df069a13.gifv" alt="x"> </a> <br><br>
+              
+              
+              
+              
+              
+       
+                 <img src="https://itinerae.neocities.org/journal/pixels/2011-12-23_1-208.gif" style="filter:grayscale(30%);float:left;opacity:0.4;margin-right:8px;" alt="x">
+
+              
+               <u>30/09/2026</u>  
+              My social anxiety, which was at its worst about three weeks ago, eventually led me . . .  
+
+              <a href="https://www.itinerae.org/2024/01/blog.html">Continue reading <img src="https://64.media.tumblr.com/e3c4ddde9216e74a020ef8f23e6aebab/4492f458cc948953-9a/s75x75_c1/1c71f0ba2eed30dcf7ee17e5ed4f6c16df069a13.gifv" alt="x"> </a>
+              
+               
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+               
+              
+  
+              
+                 
+              
+             
+                
+            </div>
+          
+            <div class="title">
+                photoblog
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+              
+          <div class="recent-photos">
+            
+            <a title="" href="https://itinerae.shop/photoblog/shrooms.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/shrooms.jpg" alt=""></a> 
+            
+            <a title="" href="https://itinerae.shop/photoblog/sani.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/sani.jpg" alt=""></a> 
+            
+             <a title="pretty ghost" href="https://itinerae.shop/photoblog/260926/aave.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/260926/aave.jpg" alt=""></a> 
+            
+             <a title="my garfield" href="https://itinerae.shop/photoblog/260926/hilppaiso.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/260926/hilppa.jpg" alt=""></a> 
+            
+            
+             <a title="bird friend" href="https://itinerae.shop/photoblog/260926/vaak.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/260926/vaak.jpg" alt=""></a> 
+            
+            
+             <a title="beautiful coloured trees" href="https://itinerae.shop/photoblog/260926/tree.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/260926/tree.jpg" alt=""></a> 
+            
+            
+              <a title="" href="https://itinerae.shop/photoblog/moon.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/moon.jpg" alt=""></a> 
+            
+             <a title="" href="https://itinerae.shop/photoblog/sunflower.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/sunflower.jpg" alt=""></a> 
+            
+            
+            
+               <a title="" href="https://itinerae.shop/photoblog/sunfall.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/sunfall.jpg" alt=""></a> 
+            
+            <a title="" href="https://itinerae.shop/photoblog/250826/sun2.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/sun2.jpg" alt=""></a> 
+            
+            <a title="" href="https://itinerae.shop/photoblog/250826/laituri.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/laituri.jpg" alt=""></a> 
+            
+            
+             <a title="Chili" href="https://itinerae.shop/photoblog/250826/chili2.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/chili2.jpg" alt=""></a> 
+            
+            <a title="" href="https://itinerae.shop/photoblog/250826/mok.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/mok.jpg" alt=""></a> 
+            
+            
+             <a title="Pioni" href="https://itinerae.shop/photoblog/250826/pioni2.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/pioni2.jpg" alt=""></a> 
+            
+             <a title="" href="https://itinerae.shop/photoblog/250826/birb2.jpg" target="_blank"><img src="https://itinerae.shop/photoblog/250826/birb2.jpg" alt=""></a> 
+            
+            
+            
+            
+            
+             <a title="She is perfect :3" href="https://itinerae.neocities.org/photoblog/purrrfect.jpg" target="_blank"><img src="https://itinerae.neocities.org/photoblog/purrrfect.jpg" alt=""></a> 
+             
+            
+            
+         <a title="my new coffee cup + ghost" href="https://itinerae.neocities.org/photoblog/ghostffee.jpg" target="_blank"><img src="https://itinerae.neocities.org/photoblog/ghostffee.jpg" alt=""></a> 
+            
+             <a title="a friendly deer" href="https://itinerae.neocities.org/photoblog/060726/deer1.jpg" target="_blank"><img src="https://itinerae.neocities.org/photoblog/060726/deer1.jpg" alt=""></a> 
+            
+            
+            
+           
+            
+            
+               
+            
+                
+            
+                
+            
+
+            
+                
+           
+            
+            
+ 
+</div><br>
+              
+               <div class="line"></div>
+   
+            
+           
+            <a title="view archive" href="https://www.itinerae.org/2024/01/photoblog.html">View older photos <img src="https://64.media.tumblr.com/e3c4ddde9216e74a020ef8f23e6aebab/4492f458cc948953-9a/s75x75_c1/1c71f0ba2eed30dcf7ee17e5ed4f6c16df069a13.gifv" alt="x"></a> 
+               
+            </div>
+
+
+
+
+<div class="title">
+                update log
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+              
+              <img src="https://itinerae.shop/pngs/260826/candle.png" alt="x" style="float:right;height:110px;opacity:0.7;">
+              
+               <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Oct 08</b> New <a href="https://www.itinerae.org/2024/01/blog.html">blog post</a>. <br>
+              
+              <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Oct 07</b> New Halloween themed <a href="https://www.itinerae.org/2024/01/premium-templates.html">premium layout.</a> <br>
+              
+             <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Oct 07</b>   <a href="https://www.itinerae.org/2024/01/graphics.html">+ 16 dark or spooky backgrounds.</a><br>
+              
+              
+               <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 30</b> New <a href="https://www.itinerae.org/2024/01/premium-templates.html">layout</a> + blog updated. <br>
+              
+                <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 23</b> <a href="https://www.itinerae.org/2024/01/base-codes.html" target="_blank">+ 1 base code</a>. <br>
+              
+                <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 22</b> <a href="https://www.itinerae.org/2024/01/graphics.html">+ 50 backgrounds</a>.<br>
+              
+              
+              
+              
+               <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 21</b> New <a href="https://www.itinerae.org/2024/01/blog.html">blog post</a>. <br>
+              
+              
+                            <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 19</b> <a href="https://www.itinerae.org/2024/01/base-codes.html" target="_blank">+ 2 base codes</a>. <br>
+              
+              <img src="https://itinerae.neocities.org/pixels/collections/up.gif" alt="x"> <b>Sep 15</b> Layout <a href="https://itinerae.shop/#comms" target="_blank">Commissions</a> are now open. 
+              
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="title">
+                leave a message
+                <img class="xs" src="https://64.media.tumblr.com/b0568ab4394277304e62999b8ca30c65/5b3d5e5ed3618451-94/s75x75_c1/41d4b3b348f5ab715300eadcf387b4e31fea21d3.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/ffe81421f61894db39b38848b55d951f/5b3d5e5ed3618451-4b/s75x75_c1/f6cfbb1a8cdc3f8008bf76e03f94d0b6ad813f5b.png" alt="x">
+                <img class="xs" src="https://64.media.tumblr.com/bb55dd048261835fde5b9cc6b26c60bb/5b3d5e5ed3618451-cb/s75x75_c1/b626a17b3562e11913b9bc7ba640692b86c86c58.png" alt="x">
+            </div>
+
+            <div class="box">
+             
+              
+                <iframe src="https://www5.cbox.ws/box/?boxid=948755&amp;boxtag=yqqqFi" width="100%" height="200"></iframe>
+            </div>
+
+ 
+
+            <br><br>
+
+            <div class="center">
+                <img src="https://64.media.tumblr.com/ec123a5731ef2b93200ce4904540c763/c4c6b70be471d166-1d/s400x600/2e6fce9ec8f6085928bcafe48df6be5092b8c96f.pnj" alt="x">
+                <br>
+                <br>
+              <i>I found a beauty in the pain / 
+                I'm only happy when it rains <br>
+Melancholy is my home / I tried to leave and go  <br>
+       Heart said no</i> 
+              - <a href="https://www.youtube.com/watch?v=zgA0RWZKW-U" target="_blank">H</a><br><br>
+              <u>Thanks for visiting</u><br><br>
+                   <img src="https://64.media.tumblr.com/19285b0e8bbb935ed13a07e755457f86/96cea03d8a16b49e-b1/s100x200/325f6de2faac3dfc02681546a291fb4312961934.pnj" alt="x"> <br>
+              
+                            <a title="This is Solveig, my wobble pet" href="https://wobble.town/visit/3304"><img src="https://wobble.town/visit/3304/wobble.gif" style="opacity:0.5;width:35px;"></a> <br><br>
+              
+              <u>♥</u>   <b>a solo trip to italy</b> <u>♥</u> <br> <iframe src="https://free.timeanddate.com/countdown/iamathgv/n101/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac666/cpc000/pct/tcfff/fn3/fs110/szw192/szh81/iso2026-11-01T23:00:00" allowtransparency="true" frameborder="0" width="85" height="21"></iframe>
+<br><br>
+
+
+            </div>
+
+
+
+<div style="clear:both; padding-bottom:0.25em"></div>
+
+        
+</div>
+</div>
